@@ -1,0 +1,8 @@
+{"wasBornIn": {"LAMA": "[X] was born in [Y] ."},
+  "diedIn": {"LAMA": "[X] died in [Y] ."},
+  "isCitizenOf": {"LAMA": "[X] is [Y] citizen ."},
+  "hasGender": {"LAMA": "The gender of [X] is [Y] ."},
+  "isLocatedIn": {"LAMA": "[X] is located in [Y] ."},
+  "isPoliticianOf": {"LAMA": "[X] works as politician in [Y] ."},
+  "livesIn": {"LAMA": "[X] lives in [Y] ."},
+  "happenedIn": {"LAMA": "[X] happened in [Y] ."}}

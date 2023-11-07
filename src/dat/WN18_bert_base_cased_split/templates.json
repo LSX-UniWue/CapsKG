@@ -1,0 +1,5 @@
+{"derivationallyrelatedform": {"LAMA": "The word [X] is a derivationally related form of the word [Y] ."},
+  "hypernym": {"LAMA": "[X] is a type of [Y] ."},
+  "hyponym": {"LAMA": "[Y] is a specific type of [X] ."},
+  "partof": {"LAMA": "[X] is a part of [Y] ."},
+  "synsetdomaintopicof": {"LAMA": "[X] belongs to the domain of [Y] ."}}
